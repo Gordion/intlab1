@@ -34,7 +34,7 @@
     width: 80%
 }
 
-.btn:focus
-{
+.btn:focus {
     color:#b0b2b5!important;
+    box-shadow: none!important;
 }
